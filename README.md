@@ -1,4 +1,4 @@
 # EarthEngine
 Collection of satellite images 
 
-Python scripts to download Satellite products directly from Google Engine in your Drive folders 
+JavaScripts codes to download Satellite products directly from Google Engine in your Drive folders 
